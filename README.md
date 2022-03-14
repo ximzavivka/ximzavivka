@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <table>
 <tbody>
   <tr>
-  I'm currently in Berlin, Germany and looking for new job opportunity🔭
+    <td>
+  I'm currently in Berlin, Germany and looking for new job opportunity🔭 and would appreciate any your support, contacts etc.
+    </td>
   </tr>
   <tr>
     <td>
