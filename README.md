@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm currently in Berlin, Germany and looking for new job opportunity🔭 and would appreciate any your support, contacts etc.
 
 <!--
 **ximzavivka/ximzavivka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,14 +19,7 @@ Here are some ideas to get you started:
 <table>
 <tbody>
   <tr>
-    <td>
-  I'm currently in Berlin, Germany and looking for new job opportunity🔭 and would appreciate any your support, contacts etc.
-    </td>
-  </tr>
-  <tr>
-    <td>
-     
-        
+    <td>      
 - 👥 LinkedIn: [linkedin.com/in/tetiana.steblova](https://linkedin.com/in/tetiana.steblova)
     </td>
     <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=ximzavivka&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" />
