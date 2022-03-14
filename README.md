@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 <table>
 <tbody>
   <tr>
+  I'm currently in Berlin, Germany and looking for new job opportunity🔭
+  </tr>
+  <tr>
     <td>
-      
-- 🌐 Website: [test.me](https://test.me)
+     
         
 - 👥 LinkedIn: [linkedin.com/in/tetiana.steblova](https://linkedin.com/in/tetiana.steblova)
     </td>
