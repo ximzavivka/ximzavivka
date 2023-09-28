@@ -20,8 +20,8 @@ Here are some ideas to get you started:
     <td>      
 - 👥 LinkedIn: [linkedin.com/in/tetiana.steblova](https://linkedin.com/in/tetiana.steblova)
     </td>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=ximzavivka&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" />
-    </td>
+<!--     <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=ximzavivka&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" />
+    </td> -->
   </tr>
 </tbody>
 </table>
