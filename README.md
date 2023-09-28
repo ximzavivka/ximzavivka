@@ -1,6 +1,4 @@
 ### Hi there 👋
-### I'm currently in Berlin, Germany and looking for new job opportunity🔭 and would appreciate any your support, contacts etc.
-
 <!--
 **ximzavivka/ximzavivka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
